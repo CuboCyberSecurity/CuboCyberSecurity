@@ -6,7 +6,7 @@
 
 ##### Software Security
 
-"If I had all the time and resources in the world to build an application, specially focusing on Security, how whould I do it?".
+"If I had all the time and resources in the world to build an application, specially focusing on Security, how would I do it?".
 
 ##### Grounding 
 

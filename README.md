@@ -26,4 +26,4 @@ I have decided to share all I know and consider relevant on Security. Some of my
 
 <br>
 
-> Almost everthing of the process will be published here (delayed!).
+> Almost everything of the process will be published here (delayed!).
